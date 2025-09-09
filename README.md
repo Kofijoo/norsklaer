@@ -1,8 +1,21 @@
-# NorskLær - AI-Powered Norwegian Language Learning Platform
+# NorskLær - Norwegian Language Learning Platform
 
-## Project Overview
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](http://localhost)
+[![Docker](https://img.shields.io/badge/Docker-Ready-green)](https://docker.com)
+[![License](https://img.shields.io/badge/License-Portfolio-orange)](LICENSE)
 
-NorskLær is a comprehensive language learning platform designed specifically for Norway's 150,000+ immigrant population requiring language certification for employment and citizenship. The platform provides adaptive learning algorithms, speech recognition, and cultural context integration across CEFR proficiency levels A1-C2.
+> **Portfolio Project**: A full-stack language learning platform demonstrating modern web development practices and educational technology expertise.
+
+## 🎯 Project Overview
+
+NorskLær is a comprehensive Norwegian language learning platform designed for Norway's 150,000+ immigrant population requiring language certification. Built as a portfolio demonstration of full-stack development capabilities, it showcases professional-grade architecture, user experience design, and educational domain expertise.
+
+### 🏆 Key Achievements
+- **Zero-Budget Development**: Built entirely with free tools and services
+- **Professional Architecture**: Microservices design with Docker containerization
+- **Educational Expertise**: CEFR-compliant curriculum and progress tracking
+- **Modern Tech Stack**: React.js, Django REST Framework, PostgreSQL
+- **Production Ready**: Complete CI/CD pipeline and deployment configuration
 
 ## Technology Stack
 
@@ -197,6 +210,6 @@ This project is developed for portfolio purposes. All rights reserved.
 
 ---
 
-**Technical Contact**: [Your Name] - [Your Email]  
-**Portfolio**: [Your Portfolio URL]  
-**LinkedIn**: [Your LinkedIn Profile]
+**Technical Contact**: Joshua Agyekum -  joshuaagyekum21@gmail.com  - https://github.com/Kofijoo
+**Portfolio**: https://kofijoo.github.io/edtech.github.io/  
+**LinkedIn**: https://www.linkedin.com/in/joshua-agyekum

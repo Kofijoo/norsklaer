@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import { AuthProvider, useAuth } from './context/AuthContext';
 import Layout from './components/Layout';
 import Login from './pages/Login';
+import Register from './pages/Register';
 import Dashboard from './pages/Dashboard';
 import LessonDetail from './pages/LessonDetail';
 
@@ -36,6 +37,15 @@ function App() {
             element={
               <PublicRoute>
                 <Login />
+              </PublicRoute>
+            }
+          />
+          
+          <Route
+            path="/register"
+            element={
+              <PublicRoute>
+                <Register />
               </PublicRoute>
             }
           />
