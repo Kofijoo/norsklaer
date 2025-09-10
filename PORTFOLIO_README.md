@@ -1,6 +1,6 @@
 # NorskLær - Portfolio Project
 
-## 🚀 Quick Demo
+## Quick Demo
 
 **Live Application**: `docker-compose up --build` → http://localhost
 
@@ -8,9 +8,9 @@
 - Create account at http://localhost/register
 - Or use admin panel: http://localhost:8000/admin/
 
-## 📋 Portfolio Highlights
+## Portfolio Highlights
 
-### ✅ **Technical Skills Demonstrated**
+### **Technical Skills Demonstrated**
 
 **Full-Stack Development**
 - React.js with modern hooks and context API
@@ -30,7 +30,7 @@
 - Production-ready deployment scripts
 - Database migrations and sample data loading
 
-### 🎯 **Business Domain Expertise**
+### **Business Domain Expertise**
 
 **Educational Technology**
 - CEFR language proficiency framework implementation
@@ -44,7 +44,7 @@
 - Workplace communication scenarios
 - Regional dialect considerations
 
-## 🏗️ **Architecture Decisions**
+## **Architecture Decisions**
 
 ### **Why Django REST Framework?**
 - Rapid development with built-in admin interface
@@ -64,7 +64,7 @@
 - Strong consistency for user data and progress tracking
 - Free tier availability on multiple cloud platforms
 
-## 📊 **Key Metrics & Results**
+## **Key Metrics & Results**
 
 **Development Timeline**: 3 weeks (part-time)
 **Code Quality**: 
@@ -77,7 +77,7 @@
 - < 500ms API response times
 - Optimized database queries with proper indexing
 
-## 🎨 **User Experience Design**
+## **User Experience Design**
 
 **Design Principles**:
 - Norwegian flag color scheme (blue/red/white)
@@ -91,7 +91,7 @@
 - Clear progress visualization with animated charts
 - Error states with actionable retry options
 
-## 🔧 **Technical Implementation Details**
+## **Technical Implementation Details**
 
 ### **Database Schema**
 ```sql
@@ -121,7 +121,7 @@ src/
 └── utils/         # Helper functions
 ```
 
-## 🎯 **Problem-Solution Fit**
+## **Problem-Solution Fit**
 
 **Problem**: Norway's immigrant population needs accessible, culturally-aware Norwegian language learning for employment/citizenship requirements.
 
@@ -129,16 +129,16 @@ src/
 
 **Market Validation**: 150,000+ target users, mandatory certification requirements, limited existing solutions for Norwegian specifically.
 
-## 🚀 **Deployment & Scalability**
+## **Deployment & Scalability**
 
 **Current Setup**: Docker Compose for development
 **Production Ready**: Environment variables, health checks, multi-stage builds
 **Scaling Path**: Kubernetes, Redis caching, CDN integration
 **Monitoring**: Structured logging, error tracking, performance metrics
 
-## 📈 **Future Roadmap**
+## **Future Roadmap**
 
-**Phase 1 (Portfolio)**: ✅ Complete
+**Phase 1 (Portfolio)**: Complete
 - Full-stack implementation
 - Docker deployment
 - Sample Norwegian content
@@ -153,7 +153,7 @@ src/
 - Gamification and social features
 - Multi-language platform expansion
 
-## 💼 **Business Case**
+## **Business Case**
 
 **Revenue Model**: Freemium with premium features
 **Cost Structure**: Optimized for free-tier cloud services
@@ -162,7 +162,7 @@ src/
 
 ---
 
-## 🤝 **Let's Connect**
+## **Let's Connect**
 
 This project demonstrates my ability to:
 - Build full-stack applications from concept to deployment
