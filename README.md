@@ -202,7 +202,7 @@ This project demonstrates professional development practices within free-tier li
 
 ## Contributing
 
-This project serves as a portfolio demonstration of edtech development capabilities. For collaboration or technical discussions, please reach out via [your contact information].
+This project serves as a portfolio demonstration of edtech development capabilities. For collaboration or technical discussions, please reach out via joshuaagyekum21@gmail.com.
 
 ## License
 
