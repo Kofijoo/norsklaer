@@ -1,4 +1,4 @@
-# NorskLær - Norwegian Language Learning Platform
+## NorskLær - Norwegian Language Learning Platform
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](http://localhost)
 [![Docker](https://img.shields.io/badge/Docker-Ready-green)](https://docker.com)
@@ -202,7 +202,7 @@ This project demonstrates professional development practices within free-tier li
 
 ## Contributing
 
-This project serves as a portfolio demonstration of edtech development capabilities. For collaboration or technical discussions, please reach out via joshuaagyekum21@gmail.com.
+This project serves as a portfolio demonstration of edtech development capabilities. For collaboration or technical discussions, please reach out via email joshuaagyekum21@gmail.com.
 
 ## License
 
